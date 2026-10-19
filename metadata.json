@@ -1,0 +1,8 @@
+{
+  "name": "Remix FoodExpress",
+  "description": "AI-powered food delivery web application featuring smart craving prediction, rich multi-category menu, real-time order tracking, and an admin analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
